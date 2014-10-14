@@ -11,7 +11,7 @@ my %module_build_args = (
     "Module::Build" => "0.28"
   },
   "configure_requires" => {
-    "Alien::Base" => "0.005",
+    "Alien::Base" => "0.006",
     "Capture::Tiny" => 0,
     "File::chdir" => 0,
     "Module::Build" => "0.28"
@@ -21,13 +21,13 @@ my %module_build_args = (
     "Graham Ollis <plicease\@cpan.org>"
   ],
   "dist_name" => "Alien-patch",
-  "dist_version" => "0.02",
+  "dist_version" => "0.03",
   "license" => "perl",
   "module_name" => "Alien::patch",
   "recommends" => {},
   "recursive_test_files" => 1,
   "requires" => {
-    "Alien::Base" => "0.005",
+    "Alien::Base" => "0.006",
     "base" => 0,
     "perl" => "5.006"
   },

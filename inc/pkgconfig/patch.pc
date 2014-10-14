@@ -1,5 +1,0 @@
-Name: patch
-Description: patch
-Version: x.y
-Libs: 
-Cflags: 

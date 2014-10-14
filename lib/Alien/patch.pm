@@ -6,7 +6,7 @@ use base qw( Alien::Base );
 use Env qw( @PATH );
 
 # ABSTRACT: Find or build patch
-our $VERSION = '0.02'; # VERSION
+our $VERSION = '0.03'; # VERSION
 
 
 my $in_path;
@@ -34,7 +34,7 @@ Alien::patch - Find or build patch
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 SYNOPSIS
 
